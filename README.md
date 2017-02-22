@@ -1,2 +1,2 @@
 # Livro Livre
-É um teste para progra.
+É um teste para programar.
