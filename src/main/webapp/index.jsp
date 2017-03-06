@@ -89,7 +89,7 @@
         <link rel="stylesheet" type="text/css" href="custom-resources/font-awesome-4.5.0/css/font-awesome.min.css">
         <link rel="stylesheet" type="text/css" href="custom-resources/css/general.css">
         <link rel="stylesheet" type="text/css" href="custom-resources/css/sidebar.css">
-        <title>Comunidade do Livro</title>
+        <title>Livro Livre</title>
     </head>
     
     <body id="index_body">
